@@ -1,4 +1,4 @@
-# 接口：
+#政策类型接口
 methodName httpMethod(get/post)
 result:{ 
 state:true,
